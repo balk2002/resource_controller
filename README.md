@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Move Google Drive to slow tests (#8163)
