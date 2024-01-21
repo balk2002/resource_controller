@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
